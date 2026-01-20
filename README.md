@@ -1,4 +1,4 @@
-# ☺ About Me:
+# 😊😉 About Me:
  Hi, I’m Balaji M<br><br>🚀 Aspiring Cloud & DevOps Engineer | AWS | Python | Learning in Public<br><br>👨‍💻 About Me<br>I’m a Computer Science Engineering student passionate about Cloud Computing and DevOps.<br>I enjoy building, automating, and monitoring systems while strengthening my fundamentals through hands-on practice.<br><br>😇 I believe in learning by doing, contributing to projects, and sharing my journey publicly to stay consistent and accountable.<br>📈 Frequently Learning JavaScript, Python, Linux, AWS..<br>
 
 
